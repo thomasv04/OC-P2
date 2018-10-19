@@ -1,0 +1,54 @@
+2018-10-16T17:18:58+00:00 CRITICAL Uncaught Error: Call to undefined function ninja_forms_register_field() in /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-content/plugins/woo-order-field-for-ninja-forms/includes/fields/wooorders.php:25
+Stack trace:
+#0 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/class-wp-hook.php(286): ninja_forms_register_field_wooorders('')
+#1 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-settings.php(450): do_action('init')
+#4 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-config.php(94): require_once('/homepages/38/d...')
+#5 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-load.php(37): require_once('/homepages/38/d...')
+#6 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-admin/admin.php(31): require_once('/homepages/38/d...')
+#7 /homepages/38/d720185080/htdocs/cha
+
+2018-10-16T17:19:11+00:00 CRITICAL Uncaught Error: Call to undefined function ninja_forms_register_field() in /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-content/plugins/woo-order-field-for-ninja-forms/includes/fields/wooorders.php:25
+Stack trace:
+#0 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/class-wp-hook.php(286): ninja_forms_register_field_wooorders('')
+#1 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-settings.php(450): do_action('init')
+#4 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-config.php(94): require_once('/homepages/38/d...')
+#5 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-load.php(37): require_once('/homepages/38/d...')
+#6 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-admin/admin.php(31): require_once('/homepages/38/d...')
+#7 /homepages/38/d720185080/htdocs/cha
+
+2018-10-16T17:19:13+00:00 CRITICAL Uncaught Error: Call to undefined function ninja_forms_register_field() in /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-content/plugins/woo-order-field-for-ninja-forms/includes/fields/wooorders.php:25
+Stack trace:
+#0 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/class-wp-hook.php(286): ninja_forms_register_field_wooorders('')
+#1 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-settings.php(450): do_action('init')
+#4 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-config.php(94): require_once('/homepages/38/d...')
+#5 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-load.php(37): require_once('/homepages/38/d...')
+#6 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-admin/admin.php(31): require_once('/homepages/38/d...')
+#7 /homepages/38/d720185080/htdocs/cha
+
+2018-10-16T17:19:18+00:00 CRITICAL Uncaught Error: Call to undefined function ninja_forms_register_field() in /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-content/plugins/woo-order-field-for-ninja-forms/includes/fields/wooorders.php:25
+Stack trace:
+#0 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/class-wp-hook.php(286): ninja_forms_register_field_wooorders('')
+#1 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-settings.php(450): do_action('init')
+#4 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-config.php(94): require_once('/homepages/38/d...')
+#5 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-load.php(37): require_once('/homepages/38/d...')
+#6 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-admin/admin.php(31): require_once('/homepages/38/d...')
+#7 /homepages/38/d720185080/htdocs/cha
+
+2018-10-16T18:16:38+00:00 CRITICAL Uncaught Error: Call to a member function get_categories() on string in /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-content/themes/astra/functions.php:153
+Stack trace:
+#0 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-content/plugins/woocommerce/templates/single-product/tabs/tabs.php(43): product_enquiry_tab_form('test_tab', Array)
+#1 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/homepages/38/d...')
+#2 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1421): wc_get_template('single-product/...')
+#3 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/class-wp-hook.php(286): woocommerce_output_product_data_tabs('')
+#4 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /homepages/38/d720185080/htdocs/chaletsetcaviar/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /homepages
+
